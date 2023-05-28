@@ -1,4 +1,4 @@
-### E aí vey 😎
+### E aí 😎
 • Estudando: Inteligência Artificial (I.A). Python.
 
 <div>
