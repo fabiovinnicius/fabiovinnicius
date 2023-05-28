@@ -1,16 +1,13 @@
-### Hi there 👋
+### E aí vey 😎
+• Estudando: Inteligência Artificial (I.A). Python.
 
-<!--
-**fabiovinnicius/fabiovinnicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/fabiovinnicius">
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=fabiovinnicius&theme=dracula&show_icons=true&hide_border=false&count_private=true/>
+  <img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=fabiovinnicius&theme=dracula&hide_border=false/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+ 
