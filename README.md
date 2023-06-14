@@ -1,5 +1,7 @@
 ### E aí 😎
-• Estudando: Inteligência Artificial (I.A). Python. HTML.
+• Estudando: 
+Inteligência Artificial (I.A) Python. 
+HTML.
 
 <div>
   <a href="https://github.com/fabiovinnicius">
