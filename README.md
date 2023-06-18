@@ -14,4 +14,6 @@ E aí!
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=fabiovinnicius&theme=default&show_icons=true&hide_border=false&count_private=true)/>
     <div>
   <img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=fabiovinnicius&theme=default&hide_border=true)/>
+    
+![fabiovinnicius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovinnicius&theme=default&show_icons=true&hide_border=false&layout=compact)
 </div>
