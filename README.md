@@ -1,17 +1,62 @@
-<h1 aling=center>
-<div>
-  
-  <a href="https://github.com/fabiovinnicius">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=fabiovinnicius&theme=default&show_icons=true&hide_border=false&count_private=true)/>
-    <div>
-  <img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=fabiovinnicius&theme=default&hide_border=true)/>
-      
-  ![fabiovinnicius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovinnicius&theme=default&show_icons=true&hide_border=true&layout=compact)
-</div>
+# Hi there, I'm Fábio! 👋
 
-<div style="display: inline_block">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+### 👨‍💻 Computer Science Student | Backend Developer & UI/UX Enthusiast
+
+I am a Computer Science student at IFCE (Campus Maracanaú) with a strong passion for bridging the gap between solid backend architecture and intuitive user experiences. I love building digital products that are not only structurally sound and efficient but also visually organized and accessible.
+
+- 🔭 I’m currently focused on **UI/UX Prototyping**.
+- 🎓 Exploring computer networking fundamentals, statistical probability, and low-level architecture.
+- 💡 I believe in writing clean code and designing empathetic interfaces.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
+
+**Frontend & Design:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Tools & Environment:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏥 [CheckUp Now!]
+A web scheduling platform designed to simplify medical appointments. 
+- **Focus:** Created distinct user journeys for patients (fast, accessible scheduling) and clinic administrators (real-time dashboard control). 
+- **Skills:** UI/UX Discovery, Wireframing, User Flows.
+
+#### 🐾 [Pet Adopt]
+A web platform acting as a bridge between animal protection NGOs and potential adopters.
+- **Focus:** Modeled the database to manage pet profiles and adoption statuses, paired with an empathetic, card-based UI for easy navigation.
+- **Skills:** Database Modeling, API Integration, Emotional Design.
+
+#### 🎮 [MoveDex]
+An interactive database tool helping Pokémon players choose optimal movesets.
+- **Focus:** Translated massive amounts of complex game data into a clean, mobile-friendly interface using predictive search and smart filtering by game generation.
+- **Skills:** Data Architecture, API Consumption, Mobile-First UI.
+
+#### ⚙️ [Assembly Architecture Migration]
+A low-level system optimization project.
+- **Focus:** Successfully migrated a 32-bit Linux Assembly program to a Windows 64-bit environment using NASM, ensuring system compatibility and structural logic without relying on problematic instructions.
+- **Skills:** x86/x64 Assembly, Debugging, Low-level Logic.
+
+---
+
+### 📫 Let's Connect!
+
+- **Email:** fvinnicius6@gmail.com
+- **Portfolio:** [Currículo_2026.pdf](https://github.com/user-attachments/files/29185945/Curriculo_2026.pdf)
+
+
+⭐️ *Thanks for stopping by! Feel free to explore my repositories below.*
