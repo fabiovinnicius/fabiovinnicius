@@ -46,17 +46,11 @@ An interactive database tool helping Pokémon players choose optimal movesets.
 - **Focus:** Translated massive amounts of complex game data into a clean, mobile-friendly interface using predictive search and smart filtering by game generation.
 - **Skills:** Data Architecture, API Consumption, Mobile-First UI.
 
-#### ⚙️ [Assembly Architecture Migration]
-A low-level system optimization project.
-- **Focus:** Successfully migrated a 32-bit Linux Assembly program to a Windows 64-bit environment using NASM, ensuring system compatibility and structural logic without relying on problematic instructions.
-- **Skills:** x86/x64 Assembly, Debugging, Low-level Logic.
-
 ---
 
 ### 📫 Let's Connect!
 
 - **Email:** fvinnicius6@gmail.com
 - **Portfolio:** [Currículo_2026.pdf](https://github.com/user-attachments/files/29185945/Curriculo_2026.pdf)
-
 
 ⭐️ *Thanks for stopping by! Feel free to explore my repositories below.*
