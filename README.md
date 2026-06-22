@@ -4,9 +4,9 @@
 
 I am a Computer Science student at IFCE (Campus Maracanaú) with a strong passion for bridging the gap between solid backend architecture and intuitive user experiences. I love building digital products that are not only structurally sound and efficient but also visually organized and accessible.
 
-- 🔭 I’m currently focused on **UI/UX Prototyping**.
-- 🎓 Exploring computer networking fundamentals, statistical probability, and low-level architecture.
-- 💡 I believe in writing clean code and designing empathetic interfaces.
+🔭 I’m currently focused on **UI/UX Prototyping**.
+🎓 Exploring computer networking fundamentals, statistical probability, and low-level architecture.
+💡 I believe in writing clean code and designing empathetic interfaces.
 
 ---
 
