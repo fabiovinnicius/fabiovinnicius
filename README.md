@@ -46,6 +46,7 @@ An interactive database tool helping Pokémon players choose optimal movesets.
 ### Let's Connect!
 
 - **Email:** fvinnicius6@gmail.com
-- **Portfolio:** [Currículo_2026.pdf](https://github.com/user-attachments/files/29185945/Curriculo_2026.pdf)
-
+- **Portfolio:** [Portifólio 2026.pdf](https://github.com/user-attachments/files/31000200/Portifolio.2026.pdf)
+- **Currículo** [Currículo_2026.pdf](https://github.com/user-attachments/files/29185945/Curriculo_2026.pdf)
+  
 ⭐️ *Thanks for stopping by! Feel free to explore my repositories below.*
